@@ -77,12 +77,14 @@ module EX(a, b, c1, c2, c3, c4, c5, c6, c7);
   assign c7 = ~(a ^ b);
 endmodule
 
-
+/*
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: Ashish S
  
  RegisterNumber: 24900566
+
+ */
  
 **Logic symbol & Truthtable**
 
